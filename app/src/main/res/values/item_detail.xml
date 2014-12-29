@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_item_detail">
+        <item>con cho, hay co the goi la con co ho</item>
+        <item>con meo keu meo meo</item>
+        <item>con chuot keu chut chit</item>
+        <item>cuon ruoi </item>
+        <item>con de</item>
+        <item>con ngua</item>
+        <item>con lua</item>
+        <item>con la</item>
+        <item>ca vang</item>
+        <item>con cao </item>
+        <item>con tho</item>
+        <item>con chuot chuoi</item>
+        <item>con doi</item>
+        <item>nguoi doi</item>
+        <item>sieu nhan</item>
+    </string-array>
+</resources>

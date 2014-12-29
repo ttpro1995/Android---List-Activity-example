@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_item_data">
+        <item>dog</item>
+        <item>cat</item>
+        <item>mouse</item>
+        <item>fly</item>
+        <item>goat</item>
+        <item>horse</item>
+        <item>donkey</item>
+        <item>mule</item>
+        <item>goldfish</item>
+        <item>fox</item>
+        <item>rabbit</item>
+        <item>mole</item>
+        <item>bat</item>
+        <item>batman</item>
+        <item>superman</item>
+    </string-array>
+
+</resources>
